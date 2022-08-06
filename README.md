@@ -16,7 +16,7 @@
     🟢 Real time chart to show income and expenses.
     🟢 local storage to save the data.
   
-  **[⬆ Back to Top](#photo-bucket)**
+  **[⬆ Back to Top](#budget-tracker)**
 
 
 ## Technologies I've used:
@@ -29,4 +29,4 @@
 
     🔷  material-ui => to design the UI and icons.
     
-  **[⬆ Back to Top](#photo-bucket)**
+  **[⬆ Back to Top](#budget-tracker)**

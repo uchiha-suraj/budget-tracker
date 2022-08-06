@@ -10,7 +10,8 @@
 ## Key Features:
 
     🟢 Fully mobile responsive clean UI.
-    🟢 Voice enabled to add income and expenses. e.g. 'ADD INCOME FOURTEEN THOUSAND DOLLAR IN CATEGORY SALARY FOR NEXT SUNDAY'.
+    🟢 Voice enabled to add income and expenses. 
+        e.g. 'ADD INCOME FOURTEEN THOUSAND DOLLAR IN CATEGORY SALARY FOR NEXT SUNDAY'.
     🟢 We can also add the income and expenses manually.
     🟢 Real time chart to show income and expenses.
     🟢 local storage to save the data.
